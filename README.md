@@ -24,11 +24,11 @@ This application allows users to automate mouse clicks. Users can select between
 **1. Clone the repository:**
 
 ```
-git clone https://github.com/your_username/AutoClicker.git
+git clone https://github.com/StablePeru/AutoClicker.git
 cd AutoClicker
 ```
 
-2. **Install the required libraries:**
+**2. Install the required libraries:**
 ```
 pip install pyautogui
 ```
